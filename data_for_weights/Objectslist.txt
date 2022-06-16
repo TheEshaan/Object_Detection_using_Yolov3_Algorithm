@@ -1,0 +1,36 @@
+person
+bicycle
+car
+motorbike
+bus
+truck
+traffic light
+fire hydrant
+stop sign
+parking meter
+bench
+giraffe
+backpack
+umbrella
+handbag
+tie
+sports ball
+tennis racket
+bottle
+wine glass
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+chair
+sofa
+laptop
+remote
+cell phone
+refrigerator
+book
+clock
+toothbrush

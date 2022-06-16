@@ -1,0 +1,2 @@
+tensorflow------------------------------------------------for conversion of .weights models to tensorflow models
+opencv-python---------------------------------------------image processing
